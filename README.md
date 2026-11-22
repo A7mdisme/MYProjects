@@ -1,6 +1,6 @@
 # UTP Notifier
 
-[Open UTP Notifier][app] to see your ULearn assignments due in the **next 14 days**. Each assignment appears in its own card with the title, course name, and deadline in Malaysia time. The nearest deadline appears first.
+[Open UTP Notifier][https://myprojects-pdozwlrpygjegx8n7fnudz.streamlit.app/] to see your ULearn assignments due in the **next 14 days**. Each assignment appears in its own card with the title, course name, and deadline in Malaysia time. The nearest deadline appears first.
 
 ## How to use the app
 

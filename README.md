@@ -1,6 +1,6 @@
 # UTP Notifier
 
-[Open UTP Notifier][https://myprojects-pdozwlrpygjegx8n7fnudz.streamlit.app/] to see your ULearn assignments due in the **next 14 days**. Each assignment appears in its own card with the title, course name, and deadline in Malaysia time. The nearest deadline appears first.
+to see your ULearn assignments due in the **next 14 days**. Each assignment appears in its own card with the title, course name, and deadline in Malaysia time. The nearest deadline appears first.
 
 ## How to use the app
 
@@ -16,7 +16,7 @@
 
 ### Returning users
 
-[Open UTP Notifier][app], enter your existing token, and click **Show assignments**. You can use the same token while it remains valid. Click **Show assignments** again whenever you want to refresh the list.
+enter your existing token, and click **Show assignments**. You can use the same token while it remains valid. Click **Show assignments** again whenever you want to refresh the list.
 
 ## Which assignments appear?
 
@@ -54,4 +54,4 @@ The app opens in your browser. If it doesn’t open automatically, click the **L
 | `UTP-NOTIFIER/step2_connect.py` | Lists upcoming assignment deadlines in the terminal. |
 | `UTP-NOTIFIER/requirements.txt` | Lists the Python packages needed for deployment. |
 
-[app]: https://YOUR-APP-NAME.streamlit.app
+[app]: https://myprojects-pdozwlrpygjegx8n7fnudz.streamlit.app/

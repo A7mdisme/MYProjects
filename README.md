@@ -42,3 +42,6 @@ The app opens in your browser. If it doesn’t open automatically, click the **L
 
 The app reads deadlines recorded on ULearn assignments. An assignment you’ve already submitted can still appear until its deadline passes. The dashboard refreshes when you click **Show assignments**. This version does not send automatic phone notifications. 
 
+
+**Live website:** [Open UTP Notifier](PASTE_YOUR_STREAMLIT_URL_HERE)
+

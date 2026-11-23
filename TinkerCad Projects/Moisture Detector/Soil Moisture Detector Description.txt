@@ -1,0 +1,9 @@
+Soil Moisture Detector
+
+This Tinkercad project simulates an automatic sprinkler that turns on when the soil is dry. A soil moisture sensor measures how wet the soil is, an Arduino Uno reads the sensor, and an LED shows whether the sprinkler would be on or off.
+
+How it works
+The Arduino reads the sensor through analog pin A0 using analogRead(A0). It compares the reading with a cutoff value to decide whether the plant needs water. When the soil is dry, the LED turns on. When the soil is moist enough, the LED turns off. The Arduino repeats this check throughout the simulation.
+
+How to test it
+Start the simulation and click the soil moisture sensor. Move its slider toward dry until the LED turns on. Then move it toward wet until the LED turns off.

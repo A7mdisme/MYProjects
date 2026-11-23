@@ -1,0 +1,9 @@
+Button and LED Interaction
+
+This Tinkercad project uses a pushbutton to control an LED with an Arduino Uno. The button is the input, and the LED is the output. Pressing the button gives the Arduino a signal, and the LED lets you see how the program responds.
+
+How it works
+The Arduino repeatedly checks the button pin using digitalRead(). The program uses that reading to decide whether the LED should be on or off, then sets the LED pin using digitalWrite().
+
+How to test it
+Start the simulation and observe the LED. Press and hold the button, then release it. Press it a second time and watch how the LED responds at each step.

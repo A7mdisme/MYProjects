@@ -1,0 +1,9 @@
+Greenhouse Temperature Detector
+
+This Tinkercad project uses an Arduino Uno and a TMP36 temperature sensor to monitor a simulated greenhouse. A red LED provides a visible heat warning, and a vibration motor provides a second alert. The Serial Monitor displays the temperature in degrees Celsius.
+
+How it works
+The Arduino reads the sensor on pin A0 and converts the reading to degrees Celsius. When the measured temperature reaches 31°C or higher, the Arduino turns on the LED through pin 7 and signals a transistor through pin 4 to switch on the motor. Both alerts turn off when the temperature drops to 30°C or below. Between 30°C and 31°C, they keep their previous state so small temperature changes do not repeatedly switch them on and off.
+
+How to test it
+Start the simulation, open the Serial Monitor, and select the TMP36. Set the temperature to 25°C, raise it to 35°C, then lower it to 25°C again. The LED and motor should turn on at the higher temperature and turn off as the greenhouse cools.
